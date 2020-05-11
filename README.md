@@ -1,0 +1,1 @@
+# stastic_white_theme_cms
